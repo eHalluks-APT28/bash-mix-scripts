@@ -1,5 +1,5 @@
 
-# Knowledge Base for xfreerdp
+# Section for xfreerdp
 
 | Command                                          | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -22,3 +22,7 @@
 **MAN:** more information at: https://manpages.ubuntu.com/manpages/focal/man1/xfreerdp.1.html
 
 
+# Section for rename
+
+
+**Assumption to rename script:** in the target directory you have only target files.
