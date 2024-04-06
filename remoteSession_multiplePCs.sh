@@ -39,8 +39,3 @@ DRIVE_NAME="mapped_drive"
 
 # completed command
 xfreerdp /v:$IP /u:$USERNAME /p:$PASSWORD /network:auto /gfx /rfx /compression /clipboard /drive:$DRIVE_PATH,$DRIVE_NAME /multimon
-
-# Note: (one screen)
-# /f fullscreen
-# /xfreerdp /monitor-list
-# /monitors:1
