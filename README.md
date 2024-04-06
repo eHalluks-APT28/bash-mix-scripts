@@ -22,6 +22,8 @@
 **MAN:** more information at: https://manpages.ubuntu.com/manpages/focal/man1/xfreerdp.1.html
 
 
+
+
 # Section for 'rename' script
 
 
