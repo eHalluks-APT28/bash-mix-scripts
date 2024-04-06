@@ -16,6 +16,7 @@
 | `/compression:`                                  | sharing the clipboard between the remote and the local system                                        |
 | `/drive:`                                        | Maps a local drive or directory as a network drive in a remote session,                              |
 
+
 **Note:** Monitor numbers may not always match those set in the system
 
 **MAN:** more information at: https://manpages.ubuntu.com/manpages/focal/man1/xfreerdp.1.html
