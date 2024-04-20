@@ -31,3 +31,12 @@
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Assumption to rename script:**                 | The target directory contains only the files to be renamed                                           |
  
+ 
+
+
+# Section for 'rename' script
+
+
+| Important                                        | Description                                                                                          |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Assumption to cleanup script:**                | Script to optimize system performance by cleaning up unused packages and cache.                      | 
