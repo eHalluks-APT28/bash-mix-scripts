@@ -34,7 +34,7 @@
  
 
 
-# Section for 'rename' script
+# Section for 'cleanup' script
 
 
 | Important                                        | Description                                                                                          |
