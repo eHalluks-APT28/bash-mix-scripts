@@ -40,3 +40,11 @@
 | Important                                        | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Assumption to cleanup script:**                | Script to optimize system performance by cleaning up unused packages and cache.                      | 
+
+
+# Section for 'creating_bootable_usb' script
+
+
+| Important                                        | Description                                                                                          |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Assumption to creating_boot... script:**       | Automation for ISO writting                                                                          |
