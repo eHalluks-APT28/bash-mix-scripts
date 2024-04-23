@@ -55,7 +55,7 @@
 
 | Important                                        | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Assumption to vite_install.... script:**       | Automation for yarn create vite [ 2024/04/23 ]                                                       |
+| **Assumption to vite_installation_advanced script:**       | Automation for yarn create vite [ 2024/04/23 ]                                                       |
 
 
 ```js
