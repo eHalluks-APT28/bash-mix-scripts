@@ -47,7 +47,7 @@
 
 | Important                                        | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Assumption to creating_boot... script:**       | Automation for ISO writting                                                                          |
+| **Assumption to creating_bootable_usb script:**       | Automation for ISO writting                                                                          |
 
 
 # Section for 'vite_installation_advanced' script
