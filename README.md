@@ -48,3 +48,30 @@
 | Important                                        | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Assumption to creating_boot... script:**       | Automation for ISO writting                                                                          |
+
+
+# Section for 'vite_installation_advanced' script
+
+
+| Important                                        | Description                                                                                          |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Assumption to vite_install.... script:**       | Automation for yarn create vite [ 2024/04/23 ]                                                       |
+
+
+```js
+ 
+ 1. downloading the path to the project
+ 2. downloading the project name
+ 3. installing vite
+ 4. installing dependencies and scss/sass
+ 5. removing unnecessary files
+ 6. creating components ( dir, .tsx, .scss )
+ 7. presentation of the structure
+ 8. modifying data in files
+ 9. test run
+ 
+```
+
+
+
+
