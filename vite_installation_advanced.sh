@@ -107,6 +107,12 @@ while true; do
         break
     fi
 
+    # check if name is not empty
+    if [ -z "$component_name" ]; then
+        echo -e "${red}Nazwa komponentu nie moze byc pusta!${endcolor}"
+        continue
+    fi
+
     # valid first letter
     formatted_name="$(tr '[:lower:]' '[:upper:]' <<< ${component_name:0:1})${component_name:1}"
 
@@ -121,6 +127,7 @@ while true; do
     counter=$((counter + 1))
 done
 echo "================="
+
 
 echo " "
 echo "=====STEP7======="
