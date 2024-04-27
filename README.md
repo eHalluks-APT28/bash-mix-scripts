@@ -1,5 +1,5 @@
 
-# Section for 'xfreerdp' script
+## Section for 'xfreerdp' script
 
 | Command                                          | Description                                                                                          |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@
 
 
 
-# Section for 'rename' script
+## Section for 'rename' script
 
 
 | Important                                        | Description                                                                                          |
@@ -34,7 +34,7 @@
  
 
 
-# Section for 'cleanup' script
+## Section for 'cleanup' script
 
 
 | Important                                        | Description                                                                                          |
@@ -42,7 +42,7 @@
 | **Assumption to cleanup script:**                | Script to optimize system performance by cleaning up unused packages and cache.                      | 
 
 
-# Section for 'creating_bootable_usb' script
+## Section for 'creating_bootable_usb' script
 
 
 | Important                                        | Description                                                                                          |
@@ -50,7 +50,7 @@
 | **Assumption to creating_bootable_usb script:**       | Automation for ISO writting                                                                          |
 
 
-# Section for 'vite_installation_advanced' script
+## Section for 'vite_installation_advanced' script
 
 
 | Important                                        | Description                                                                                          |
@@ -58,20 +58,26 @@
 | **Assumption to vite_installation_advanced script:**       | Automation for yarn create vite [ 2024/04/23 ]                                                       |
 
 
-```js
- 
- 1. downloading the path to the project
- 2. downloading the project name
- 3. installing vite
- 4. installing dependencies and scss/sass
- 5. removing unnecessary files
- 6. creating components ( dir, .tsx, .scss )
- 7. presentation of the structure
- 8. modifying data in files
- 9. test run
- 
-```
+* downloading the path to the project
+* downloading the project name
+* installing vite
+* installing dependencies and scss/sass
+* removing unnecessary files
+* creating components ( dir, .tsx, .scss )
+* presentation of the structure
+* modifying data in files
+* test run
 
 
+## Section for 'create_multipleFiles' script
 
+
+| Important                                        | Description                                                                                          |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Assumption to create_multipleFiles script:**   | Script to optimize files creating process.                                                           | 
+
+
+* Get directory path or use PWD
+* Add a generic extension or make your own
+* Change the path if needed
 
